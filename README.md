@@ -118,6 +118,3 @@ python busca_a_estrela.py
 
 ---
 
-O arquivo acima descreve detalhadamente os pormenores matemáticos e lógicos envolvidos em sua implementação da busca A Estrela. Ele já foi criado internamente com formatação limpa e de fácil leitura para qualquer visualizador de Markdown (como o próprio GitHub). Você pode salvá-lo como `README.md` no mesmo diretório do seu código.
-
-```
